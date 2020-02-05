@@ -1,0 +1,15 @@
+Git init // initialize a command
+git add <file> add file
+git status check status working tree
+git commit commit changes
+git push push to remote repository
+git pull - pull latest from remote respository
+
+
+git add .      add all files
+git commit -m 'write your commit'
+git  branch mybranch     create a new branch
+git merge mybranch       merge a brach with the master
+Git remote               create remote
+git push                 push to remote
+git clone                clone a remote branch
