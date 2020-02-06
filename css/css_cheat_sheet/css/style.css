@@ -34,7 +34,7 @@ a:active{
 
 a:visited{
 
-    color:yellow;
+    color:black;
 
 }
 
@@ -99,6 +99,7 @@ margin:20px 0;
             border: 1px #ccc solid;
             padding: 10px;
             border-radius: 15px;
+            
 
 
 }
@@ -113,8 +114,15 @@ margin:20px 0;
 
 .categories ul{
     padding:10;
-    list-style: square;
-    
+    list-style: none;
+
+}
+
+.categories li {
+
+    padding-bottom: 6px;
+    border-bottom: dotted 1px black;
+    list-style-image: url('../images/check.png');
 
 
 
